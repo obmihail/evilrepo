@@ -1,0 +1,1 @@
+this is its result of file outProjects/msAzureTools/test.cs of outProjects/msAzureTools/test.cs
