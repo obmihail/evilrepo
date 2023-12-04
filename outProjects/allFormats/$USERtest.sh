@@ -1,0 +1,1 @@
+this is its result of file outProjects/allFormats/$USERtest.sh of outProjects/allFormats/$USERtest.sh

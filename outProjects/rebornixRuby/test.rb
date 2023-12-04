@@ -1,0 +1,1 @@
+this is its result of file outProjects/rebornixRuby/test.rb of outProjects/rebornixRuby/test.rb

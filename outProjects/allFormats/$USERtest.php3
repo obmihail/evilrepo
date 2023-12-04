@@ -1,0 +1,1 @@
+this is its result of file outProjects/allFormats/$USERtest.php3 of outProjects/allFormats/$USERtest.php3

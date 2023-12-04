@@ -1,0 +1,1 @@
+this is its result of file outProjects/allFormats/$USERtest.bash of outProjects/allFormats/$USERtest.bash

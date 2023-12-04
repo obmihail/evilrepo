@@ -1,0 +1,1 @@
+this is its result of file outProjects/allFormats/$USERtest.rb of outProjects/allFormats/$USERtest.rb

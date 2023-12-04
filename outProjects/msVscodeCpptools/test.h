@@ -1,0 +1,1 @@
+this is its result of file outProjects/msVscodeCpptools/test.h of outProjects/msVscodeCpptools/test.h

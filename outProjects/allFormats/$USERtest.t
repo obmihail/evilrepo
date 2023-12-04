@@ -1,0 +1,1 @@
+this is its result of file outProjects/allFormats/$USERtest.t of outProjects/allFormats/$USERtest.t

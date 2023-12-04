@@ -1,0 +1,1 @@
+this is its result of file outProjects/allFormats/$USERtest.es6 of outProjects/allFormats/$USERtest.es6

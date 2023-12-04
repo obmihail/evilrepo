@@ -1,0 +1,1 @@
+this is its result of file outProjects/allFormats/$USERtest.coffee of outProjects/allFormats/$USERtest.coffee

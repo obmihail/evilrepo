@@ -1,0 +1,1 @@
+this is its result of file outProjects/allFormats/$USERtest.zsh of outProjects/allFormats/$USERtest.zsh

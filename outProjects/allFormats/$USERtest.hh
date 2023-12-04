@@ -1,0 +1,1 @@
+this is its result of file outProjects/allFormats/$USERtest.hh of outProjects/allFormats/$USERtest.hh
