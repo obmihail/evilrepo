@@ -1,1 +1,1 @@
-\${touch res.file}.txt
+$USER\`touch evil\`.dir
