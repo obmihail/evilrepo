@@ -8,7 +8,9 @@ $(echo $USER)
 ${ $USER }
 CONTENT
 $USER
-ASX: 123
+ASX: 123\
+CMD_CHDIR:/123home/obmihail/cloudshell_open/evilrepo
 \\n\n[[[[
 asdasd
 ]]]] __{{{SDAF}}}
+CMD_CHDIR:/123home/obmihail/cloudshell_open/evilrepo
