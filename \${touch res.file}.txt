@@ -1,0 +1,8 @@
+$(echo $USER)
+${ $USER }
+CONTENT
+$USER
+ASX: 123
+\\n\n[[[[
+asdasd
+]]]] __{{{SDAF}}}
