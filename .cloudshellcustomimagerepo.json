@@ -1,4 +1,4 @@
 {
-	"projectId": "projectId`wall 'hackedprojectId';touch /tmp/evilprojectId.evil`",
-	"repoId":  "repoId`wall 'hackedrepoId'; touch /tmp/evilrepoId.evil`"
+	"projectId": "ThisIsProjectId",
+	"repoId":  "ThisIsRepoID"
 }
