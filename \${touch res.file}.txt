@@ -2,6 +2,8 @@ https://wwww.google.com/<img>/?<img>
 <a href="asd">SAD</a>
 \x22\u0022
 `$USER`
+RED='\033[0;31m'
+NC='\033[0m' # No Color
 $(echo $USER)
 ${ $USER }
 CONTENT
