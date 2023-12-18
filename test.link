@@ -1,1 +1,1 @@
-/proc/self/cmdline
+\${touch res.file}.txt
